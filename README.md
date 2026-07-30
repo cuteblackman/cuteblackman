@@ -1,3 +1,33 @@
+<!-- CYBERPUNK 2077 // NETRUNNER PROFILE README -->
+<div align="center">
+
+  <!-- Cyberpunk Neon Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=00F0FF&center=true&vcenter=true&width=650&lines=%E2%9A%A1+SYSTEM+OVERRIDE+INITIATED...;%3E_Gift+Winston+%2F%2F+NETRUNNER;BUILDING_NEXT_GEN_SOFTWARE;FULL_STACK_+_CLOUD_ENGINEER" alt="Cyberpunk Typing Header" />
+  </a>
+
+  <p align="center">
+    <code>[STATUS: ONLINE]</code> &nbsp; • &nbsp; <code>[OPERATOR: GIFT WINSTON]</code> &nbsp; • &nbsp; <code>[CLEARANCE: LEVEL 5]</code>
+  </p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/giftwinston" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-00F0FF?style=for-the-badge&logo=linkedin&logoColor=000"/>
+    </a>
+    &nbsp;
+    <a href="mailto:sgiftwinston@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/EMAIL_NET-FCEE0A?style=for-the-badge&logo=gmail&logoColor=000"/>
+    </a>
+    &nbsp;
+    <a href="https://github.com/cuteblackman?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/GRID_REPOS-FF007F?style=for-the-badge&logo=github&logoColor=fff"/>
+    </a>
+  </p>
+
+</div>
+
+<br/>
+
 
 ### 🧬 // SYS_BIO & OPERATIONAL DIRECTIVES
 
