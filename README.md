@@ -21,9 +21,6 @@
   </p>
 
 </div>
-
----
-
 ### 🚀 About Me
 
 - 🎓 **Student & Learner:** Constantly practicing code and learning new things.
