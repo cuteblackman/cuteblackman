@@ -24,7 +24,7 @@
 ### 🚀 About Me
 
 - 🎓 **Student & Learner:** Constantly practicing code and learning new things.
-- 💡 **Currently Learning:** Web Development, Python, and Git.
+- 💡 **Currently Learning:** Web Development,Cybersecurity fundamentals, Python, and Git.
 - 🎯 **Goals:** Build fun projects, practice problem solving, and keep improving every day.
 - ⚡ **Fun Fact:** I love gaming, tinkering with technology, and listening to music.
 
