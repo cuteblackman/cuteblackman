@@ -7,7 +7,7 @@
   </a>
 
   <p align="center">
-    👋 Welcome to my GitHub! I'm a student learning programming, building fun projects, and exploring tech.
+    👋 Welcome to my GitHub! I'm a student learning programming, building projects, and exploring tech.
   </p>
 
   <p align="center">
