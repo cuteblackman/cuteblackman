@@ -53,5 +53,5 @@
 ---
 
 <div align="center">
-  <sub>Built with 💻 by <b>Gift Winston</b></sub>
+  <sub>Built with 💻 by <b>GiftWinston</b></sub>
 </div>
